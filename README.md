@@ -63,7 +63,7 @@ FindHer is an application based platform to promote women and empower them.Throu
 * Syed Ahsan, [syedahsanwork127@gmail.com]()
 * Subhan Saleem,[mk.subhansaleem@gmail.com]()
 * Mustafa Bawany, [mustafabawany204@gmail.com]()
-* Ahmed Raza,[]()
+* Ahmed Raza,[imahmed18@gmail.com]()
 
 ## Todo
 * Flutter based application.
